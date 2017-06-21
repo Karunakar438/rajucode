@@ -1,0 +1,2 @@
+# rajucode
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fce4ee1ddc9546df97ecb7e9db1c2ea4)](https://www.codacy.com/app/Karunakar438/rajucode?utm_source=github.com&utm_medium=referral&utm_content=Karunakar438/rajucode&utm_campaign=badger)
